@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<object id='WebPageData'>
+<preview val="0"/>
+<has_banner val="0"/>
+<page_l val="48"/>
+<object class='WebCompColorizedZoneData'>
+<z_index val="38"/>
+<left val="9"/>
+<top val="1635"/>
+<width val="779"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="10"/>
+<left val="535"/>
+<top val="843"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Apelido&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="36"/>
+<left val="9"/>
+<top val="1224"/>
+<width val="779"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="4"/>
+<left val="0"/>
+<top val="349"/>
+<width val="480"/>
+<height val="49"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='Georgia' size='36' color='#cccccc' face='Georgia' &#62;Inserir:&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="64"/>
+<left val="100"/>
+<top val="513"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Nome&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="8"/>
+<left val="25"/>
+<top val="1651"/>
+<width val="225"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Cidade&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="52"/>
+<left val="7"/>
+<top val="1279"/>
+<width val="209"/>
+<height val="101"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o telefone celular do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62; &#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="24"/>
+<left val="10"/>
+<top val="300"/>
+<width val="100"/>
+<height val="39"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;inicio.html&#34; &#62;&#60;font face='Verdana' size='19' &#62;In&#38;#237;cio&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;text-decoration:underline;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="15"/>
+<left val="283"/>
+<top val="1651"/>
+<width val="117"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;Coment&#38;#225;rios&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="7"/>
+<left val="25"/>
+<top val="1440"/>
+<width val="225"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;N&#38;#186;&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="32"/>
+<left val="518"/>
+<top val="1056"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="12"/>
+<left val="534"/>
+<top val="1647"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Inserir&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="17"/>
+<left val="283"/>
+<top val="1238"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Sobrenome&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="47"/>
+<left val="520"/>
+<top val="1279"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o nome da rua onde o usu&#38;#225;rio a ser inserido no banco de dados vive.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="18"/>
+<left val="283"/>
+<top val="1050"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Tel. casa&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="6"/>
+<left val="25"/>
+<top val="1238"/>
+<width val="225"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Tel. cel.&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="16"/>
+<left val="283"/>
+<top val="1439"/>
+<width val="50"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;UF&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="65"/>
+<left val="88"/>
+<top val="567"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Tel. casa&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="70"/>
+<left val="648"/>
+<top val="547"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Rua&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="60"/>
+<left val="647"/>
+<top val="683"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Coment&#38;#225;rios&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="14"/>
+<left val="535"/>
+<top val="1049"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Tel. trab&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="45"/>
+<left val="520"/>
+<top val="880"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o apelido do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="37"/>
+<left val="9"/>
+<top val="1420"/>
+<width val="779"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="55"/>
+<left val="0"/>
+<top val="1873"/>
+<width val="800"/>
+<height val="28"/>
+<crbst_text val="&#60;p align='center'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#999999' face='MS Shell Dlg 2' &#62;Copyright &#38;#169; 2008 MM PHONE BOOK.All rights reserved.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="28"/>
+<left val="269"/>
+<top val="1243"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="48"/>
+<left val="520"/>
+<top val="1691"/>
+<width val="220"/>
+<height val="129"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Este bot&#38;#227;o deve ser usado ap&#38;#243;s a inser&#38;#231;&#38;#227;o de todos os dados em seus respectivos campos para a inser&#38;#231;&#38;#227;o de tais no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="67"/>
+<left val="647"/>
+<top val="623"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Cidade&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="66"/>
+<left val="89"/>
+<top val="638"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;E-mail&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="51"/>
+<left val="7"/>
+<top val="1694"/>
+<width val="209"/>
+<height val="118"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado a cidade  onde o usu&#38;#225;rio a ser inserido no banco de dados vive.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="46"/>
+<left val="520"/>
+<top val="1084"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o n&#38;#250;mero do telefone do trabalho do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="59"/>
+<left val="647"/>
+<top val="592"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;UF&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="33"/>
+<left val="518"/>
+<top val="1243"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="69"/>
+<left val="647"/>
+<top val="578"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;N&#38;#186;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="68"/>
+<left val="647"/>
+<top val="611"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Bairro&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="13"/>
+<left val="535"/>
+<top val="1440"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Bairro&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="54"/>
+<left val="6"/>
+<top val="880"/>
+<width val="209"/>
+<height val="134"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Este n&#38;#250;mero &#38;#233; gerado autom&#38;#225;tico pelo software e corresponde ao endere&#38;#231;o do dado a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62; &#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="63"/>
+<left val="92"/>
+<top val="670"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Tel. trab.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="39"/>
+<left val="9"/>
+<top val="1033"/>
+<width val="779"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="42"/>
+<left val="270"/>
+<top val="1280"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o sobrenome do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="53"/>
+<left val="7"/>
+<top val="1087"/>
+<width val="209"/>
+<height val="113"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o e-mail do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62; &#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="58"/>
+<left val="627"/>
+<top val="440"/>
+<width val="68"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Apelido&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="44"/>
+<left val="271"/>
+<top val="1691"/>
+<width val="209"/>
+<height val="129"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo pode ser  colocado qualquer informa&#38;#231;&#38;#227;o adicional sobre o usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="0"/>
+<left val="0"/>
+<top val="1"/>
+<width val="800"/>
+<height val="1899"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="1"/>
+<comp_common_bg_border_color val="#000000"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#242424"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="27"/>
+<left val="269"/>
+<top val="1055"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="29"/>
+<left val="269"/>
+<top val="1444"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="19"/>
+<left val="283"/>
+<top val="843"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Nome&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="31"/>
+<left val="518"/>
+<top val="849"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="56"/>
+<left val="140"/>
+<top val="460"/>
+<width val="507"/>
+<height val="311"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fimport3.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="49"/>
+<left val="520"/>
+<top val="1479"/>
+<width val="209"/>
+<height val="121"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o nome do bairro  onde o usu&#38;#225;rio a ser inserido no banco de dados vive.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="2"/>
+<left val="83"/>
+<top val="293"/>
+<width val="718"/>
+<height val="41"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5f%5fgen%5fimg4%5f00.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="61"/>
+<left val="350"/>
+<top val="771"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Inserir&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="11"/>
+<left val="535"/>
+<top val="1237"/>
+<width val="100"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;Rua&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="71"/>
+<left val="646"/>
+<top val="515"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Sobrenome&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="20"/>
+<left val="11"/>
+<top val="1055"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="57"/>
+<left val="380"/>
+<top val="460"/>
+<width val="160"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;N&#38;#186; do c&#38;#243;digo de cadastro&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="21"/>
+<left val="11"/>
+<top val="1445"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="40"/>
+<left val="267"/>
+<top val="880"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o nome do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="62"/>
+<left val="100"/>
+<top val="760"/>
+<width val="86"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='13' color='#ffffff' face='MS Shell Dlg 2' &#62;Tel .cel.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="9"/>
+<left val="25"/>
+<top val="1051"/>
+<width val="225"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;E-mail&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="5"/>
+<left val="25"/>
+<top val="843"/>
+<width val="225"/>
+<height val="25"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#ffffff' face='MS Shell Dlg 2' &#62;&#60;b&#62;N&#38;#186; do c&#38;#243;digo de cadastro&#60;/b&#62;&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="43"/>
+<left val="271"/>
+<top val="1482"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o estado do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="22"/>
+<left val="11"/>
+<top val="1655"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="41"/>
+<left val="270"/>
+<top val="1085"/>
+<width val="209"/>
+<height val="117"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o telefone residencial do usu&#38;#225;rio a ser inserido no banco de dados.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="35"/>
+<left val="518"/>
+<top val="1446"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="30"/>
+<left val="269"/>
+<top val="1655"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="25"/>
+<left val="11"/>
+<top val="849"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="23"/>
+<left val="11"/>
+<top val="1243"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="50"/>
+<left val="7"/>
+<top val="1482"/>
+<width val="209"/>
+<height val="118"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#cccccc' face='MS Shell Dlg 2' &#62;Neste campo deve ser colocado o n&#38;#250;mero da casa  onde o usu&#38;#225;rio a ser inserido no banco de dados vive.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="9"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="2"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#ffffff14"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="1"/>
+<left val="166"/>
+<top val="28"/>
+<width val="455"/>
+<height val="251"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fmmphonebook.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="34"/>
+<left val="518"/>
+<top val="1652"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="26"/>
+<left val="269"/>
+<top val="849"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="3"/>
+<left val="0"/>
+<top val="293"/>
+<width val="718"/>
+<height val="41"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5f%5fgen%5fimg4%5f00.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<global_photo_album_tooltip_bt_zoom_in val="Aumentar&nbsp;Zoom"/>
+<global_photo_album_tooltip_bt_zoom_out val="Diminuir&nbsp;zoom"/>
+<global_photo_album_tooltip_bt_display_comment val="Mostrar&nbsp;os&nbsp;coment&#225;rios"/>
+<global_photo_album_tooltip_bt_increase_view val="Aumentar"/>
+<global_photo_album_tooltip_bt_decrease_view val="Diminuir"/>
+<global_photo_album_tooltip_bt_previous_page val="P&#225;gina&nbsp;anterior"/>
+<global_photo_album_tooltip_bt_next_page val="P&#225;gina&nbsp;seguinte"/>
+<global_photo_album_tooltip_bt_stop_diaporama val="Parar&nbsp;o&nbsp;diaporama"/>
+<global_photo_album_tooltip_bt_launch_diaporama val="Come&#231;ar&nbsp;o&nbsp;diaporama"/>
+<global_photo_album_tooltip_bt_back_to_album val="Sair&nbsp;do&nbsp;modo&nbsp;&#34;Pagina&nbsp;inteira&#34;"/>
+<global_message_error_server_connexion val="Erro:&nbsp;conex&#227;o&nbsp;servidor"/>
+<global_message_mail_sended val="Sucesso:&nbsp;Email&nbsp;enviado"/>
+<global_message_error_no_php_on_server val="Erro:&nbsp;Servidor&nbsp;sem&nbsp;php"/>
+<global_context_menu_open_image val="Abrir&nbsp;a&nbsp;imagem&nbsp;no&nbsp;seu&nbsp;navegador"/>
+<global_context_menu_open_url_in_window val="Abrir&nbsp;o&nbsp;link&nbsp;no&nbsp;seu&nbsp;navegador"/>
+<global_context_menu_insert_special_character val="Introduza&nbsp;o&nbsp;car&#225;ter&nbsp;especial"/>
+<global_message_click_here_to_open_link_in_window val="Clique&nbsp;aqui&nbsp;para&nbsp;abrir&nbsp;o&nbsp;link&nbsp;noutra&nbsp;janela"/>
+<global_message_you_can_add_special_chars_by_context_menu val="Pode&nbsp;inserir&nbsp;o&nbsp;car&#225;cter&nbsp;&#8220;@&#8221;&nbsp;abrindo&nbsp;o&nbsp;menu&nbsp;contextual&nbsp;(clique&nbsp;direito)"/>
+<crbst_common val="width=802,height=1901,is_centered=1,bg_image=,"/>
+<block_right_mouseclic_get_image val="0"/>
+</object>

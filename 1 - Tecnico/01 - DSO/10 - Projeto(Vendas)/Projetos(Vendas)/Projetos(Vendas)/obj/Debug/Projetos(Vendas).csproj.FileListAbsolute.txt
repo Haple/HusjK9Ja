@@ -1,0 +1,10 @@
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\bin\Debug\Projetos(Vendas).exe.config
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\bin\Debug\Projetos(Vendas).exe
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\bin\Debug\Projetos(Vendas).pdb
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\bin\Debug\MySql.Data.dll
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\obj\Debug\Projetos(Vendas).csprojResolveAssemblyReference.cache
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\obj\Debug\Projetos_Vendas_.Form1.resources
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\obj\Debug\Projetos_Vendas_.Properties.Resources.resources
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\obj\Debug\Projetos(Vendas).csproj.GenerateResource.Cache
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\obj\Debug\Projetos(Vendas).exe
+E:\Técnico\DSO\Projeto(Vendas)\Projetos(Vendas)\Projetos(Vendas)\obj\Debug\Projetos(Vendas).pdb

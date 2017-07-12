@@ -1,0 +1,9 @@
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\bin\Debug\Projeto(Heranca).exe.config
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\obj\Debug\Projeto(Heranca).csprojResolveAssemblyReference.cache
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\obj\Debug\Projeto_Heranca_.Form1.resources
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\obj\Debug\Projeto_Heranca_.Properties.Resources.resources
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\obj\Debug\Projeto(Heranca).csproj.GenerateResource.Cache
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\bin\Debug\Projeto(Heranca).exe
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\bin\Debug\Projeto(Heranca).pdb
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\obj\Debug\Projeto(Heranca).exe
+D:\Técnico\DSO\Projeto(Herança)\Projeto(Heranca)\Projeto(Heranca)\obj\Debug\Projeto(Heranca).pdb

@@ -1,0 +1,26 @@
+
+
+CREATE DATABASE `agenda`;
+
+USE `agenda`;
+
+
+
+CREATE TABLE `agenda` (
+  `cod`        int(11) NOT NULL AUTO_INCREMENT,
+  `nome`       varchar(50)  NULL,
+  `sobrenome`  varchar(50)  NULL,
+  `apelido`    varchar(20)  NULL,
+  `email`      varchar(20)  NULL,
+  `telCasa`    varchar(8)  NULL,
+  `telTrab`    varchar(8)  NULL,
+  `telCel`     varchar(8)  NULL,
+  `rua`        varchar(20)  NULL,
+  `bairro`     varchar(20)  NULL,
+  `num`        int(11)  NULL,
+  `cidade`     varchar(20)  NULL,
+  `estado`     varchar(2)  NULL,
+  `coment`     varchar(200) null,
+  PRIMARY KEY (`cod`)
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=latin1;
+

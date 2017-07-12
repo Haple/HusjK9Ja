@@ -1,0 +1,12 @@
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\bin\Debug\Projeto(Cruzadinha).exe.config
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\bin\Debug\Projeto(Cruzadinha).exe
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\bin\Debug\Projeto(Cruzadinha).pdb
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto(Cruzadinha).csprojResolveAssemblyReference.cache
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto_Cruzadinha_.Form1.resources
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto_Cruzadinha_.Properties.Resources.resources
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto(Cruzadinha).csproj.GenerateResource.Cache
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto(Cruzadinha).exe
+E:\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto(Cruzadinha).pdb
+E:\Técnico\DSO\Projeto(Cruzadinha)\Projeto(Cruzadinha)\bin\Debug\Projeto(Cruzadinha).exe.config
+E:\Técnico\DSO\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto(Cruzadinha).exe
+E:\Técnico\DSO\Projeto(Cruzadinha)\Projeto(Cruzadinha)\obj\Debug\Projeto(Cruzadinha).pdb

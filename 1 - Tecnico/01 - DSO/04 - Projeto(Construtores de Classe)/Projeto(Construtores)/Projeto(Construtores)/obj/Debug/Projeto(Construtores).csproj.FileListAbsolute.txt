@@ -1,0 +1,9 @@
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\bin\Debug\Projeto(Construtores).exe.config
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\bin\Debug\Projeto(Construtores).exe
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\bin\Debug\Projeto(Construtores).pdb
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\obj\Debug\Projeto(Construtores).csprojResolveAssemblyReference.cache
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\obj\Debug\Projeto_Construtores_.Form1.resources
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\obj\Debug\Projeto_Construtores_.Properties.Resources.resources
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\obj\Debug\Projeto(Construtores).csproj.GenerateResource.Cache
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\obj\Debug\Projeto(Construtores).exe
+D:\Técnico\DSO\Projeto(Construtores de Classe)\Projeto(Construtores)\Projeto(Construtores)\obj\Debug\Projeto(Construtores).pdb

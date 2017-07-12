@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F198999E-9D3F-4C4E-B0D6-3463A1C5A9A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PROJETO__TABELA_PERIODICA_</RootNamespace>
+    <AssemblyName>PROJETO %28TABELA PERIODICA%29</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>P:\Thiago Antonio Silva Rocha\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Elemento.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="imgs\ACTINIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ALUMINIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\AMERICIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ANTIMONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ARGONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ARSENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ASTATO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ATOMO.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BARIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BERILIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BERQUELIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BISMUTO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BOHRIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BORO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\BROMO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CADMIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CALCIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CALIFORNIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CARBONO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CERIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CESIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CHUMBO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CLORO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\COBALTO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\COBRE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\COPERNICIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CRIPITONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CROMO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\CURIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\DARMSTADIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\DISPROSIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\DUBNIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\EINSTENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ENXOFRE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ERBIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ESCANDIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ESTANHO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ESTRONCIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\EUROPIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\FERMIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\FERRO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\FLEROVIO.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\FLUOR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\FOSFORO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\FRANCIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\GADOLINIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\GALIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\GERMANIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\HAFNIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\HASSIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\HELIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\HIDROGENIO.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\HOLMIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ICONE1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ICONE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ICONE3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\INDIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\IODO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\IRIDIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ITERBIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ITRIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\LANTANIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\LAURENCIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\leftArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\LITIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\LUTECIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MAGNESIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MANGANES.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MEITNERIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MENDELEVIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MERCURIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\MOLIBDENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NEODIMIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NEONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NEPTUNIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NIOBIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NIQUEL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NITROGENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\NOBELIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\OSMIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\OURO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\OXIGENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PALADIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PLATINA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PLUTONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\POLONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\POTASSIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PRASEODIMIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PRATA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PROMECIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\PROTACTINIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RADIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RADONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\rightArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RODIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ROENTGENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RUBIDIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RUTENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\RUTHERFORDIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\SAMARIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\SEABORGIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\SELENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\SILICIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\SODIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TALIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TANTALO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TECNECIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TELURIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TERBIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TITANIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TORIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TULIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\TUNGSTENIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\UNUNHEXIO.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\UNUNOCTIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\UNUNPENTIO.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\UNUNQUADIO.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\UNUNSEPTIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\UNUNTRIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\URANIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\VANADIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\XENONIO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ZINCO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imgs\ZIRCONIO.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

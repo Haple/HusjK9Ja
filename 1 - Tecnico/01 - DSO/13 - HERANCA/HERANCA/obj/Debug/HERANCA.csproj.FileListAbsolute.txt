@@ -1,0 +1,9 @@
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\bin\Debug\HERANCA.exe.config
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\bin\Debug\HERANCA.exe
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\bin\Debug\HERANCA.pdb
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\obj\Debug\HERANCA.csprojResolveAssemblyReference.cache
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\obj\Debug\HERANCA.Form1.resources
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\obj\Debug\HERANCA.Properties.Resources.resources
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\obj\Debug\HERANCA.csproj.GenerateResource.Cache
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\obj\Debug\HERANCA.exe
+D:\Técnico\DSO\Projeto(Construtores de Classe)\HERANCA\HERANCA\obj\Debug\HERANCA.pdb

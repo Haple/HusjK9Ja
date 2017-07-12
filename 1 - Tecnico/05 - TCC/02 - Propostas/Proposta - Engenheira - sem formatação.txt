@@ -1,0 +1,36 @@
+24/03
+ENGENHEIRA 
+
+"The Book of Informatics página 20 by John G. Gammack (Author), Valerie Hobbs (Author), Diarmuid Pigott (Author)"
+"Sistema de informação por Leandro Salenave Gonçalves"
+
+Resumo: 
+	Este trabalho visa a apresentação de uma proposta temática para o trabalho de conclusão do curso de informática, para a Etec de Nova Odessa. A proposta temática consiste no campo de atuação em que o Trabalho de Conclusão de Curso será restrito. É proposto que seja desenvolvido uma solução computacional, um sistema, para organizar o trabalho de uma engenheira. A solução consistiria no controle de projetos, datas e orçamentos. O desenvolvimento seria diretamente atrelado a entrevistas com o usuário final, a engenheira, para estabelecer requisitos mínimos para o sistema. A solução deverá ser baseada em pesquisas bibliográficas afim de garantir a eficiência e qualidade no trabalho do usuário. O sucesso da proposta dependerá do avanço significativo do trabalho da engenheira.
+Palavras-Chave: Proposta. Organização. Engenheira civil. 
+
+Introdução: 
+	Um trabalho de conclusão de curso é dividido em fases, onde todas possuem relevância equivalente. A primeira fase é a da elaboração das propostas de trabalho. A proposta deve ser apresentada como um possível domínio de atuação, neste caso, onde um técnico de informática possa atuar.  
+	 A atuação de um técnico de informática é essencial em áreas de pesquisa, no desenvolvimento de soluções computacionais, na manutenção de sistemas e hardware, entre tantos outros campos em que haja a transmissão de dados por meios digitais. Esta  proposta terá como foco o desenvolvimento de uma solução computacional.
+	 O desenvolvimento de um sistema envolve o planejamento do fluxo das informações, os dados de entrada e os dados de saída. Essa proposta de trabalho tem como intuíto prover um sistema computacional para uma profissional da engenharia civil. Essa pessoa possui uma vida profissional muito exigente, onde o não cumprimento de prazos pode gerar sérias consequências, tanto para a própria engenheira civil, quanto para os envolvidos em um projeto. Dados como prazos, orçamentos e clientes, informações básicas para a organização da usuária, tornariam-se também a principal base para o sistema proposto, constituíndo os dados de entrada.
+	Os dados de saída seriam notificadados a usuária afim de mantê-la sempre alerta a cada um de seus projetos.  A proposta será constituída dos principais intuítos do sistema, como também argumentos que confrontam as necessidades com as dificuldades de desenvolver a solução em pauta. Além de tudo, será apresentada a forma como surgiu a ideia de propor o desenvolvimento de um programa de computador para o dia a dia de uma profissional  da engenharia civil.
+
+Objetivos:
+	Os objetivos do desenvolvimento de um sistema computacional devem ser os primeiros itens a serem avaliados ao se realizar uma proposta.
+	Estabelece-se como prioridade a realização de um sistema que facilite a organização do trabalho de uma profissional da engenharia civil. A organização deve ser feita de forma a garantir um trabalho mais eficiente dentro de prazos previamente estabelecidos.
+	O sistema deverá recolher dados (e.g., prazos, projetos e clientes), cujos deverão ser inseridos pela própria usuária. Adquirir dados da engenheira é a base do funcionamento do sistema. Esses dados serão armazenados e o sistema realizará notificações coerentes, baseando-se nas entradas.
+	Mais do que uma agenda digital, o sistema irá prover um procedimento de notificação afim de manter a profissional atenta a cada um de seus projetos e clientes.
+
+Justificativa: 
+	Justificar os objetivos é uma parte essencial a toda proposta. Aqui serão confrontadas as necessidades com as dificuldades de construir um sistema para uma profissional da engenharia civil.
+	As necessidades giram em torno de uma profissional com muitos projetos em andamento e ainda mais projetos para avaliar. O excedente de projetos, prazos e clientes frequentemente gera atrasos e falhas. É visto que uma organização de qualidade é a saída para esses problemas, logo, vê-se a importância de um sistema automático de organização e notificação.
+	O funcionamento do trabalho na engenharia civil é principal obstáculo a ser superado. Tal superação se tornará bem-sucedida através de entrevistas com a futura usuária do sistema, a engenheira civil. A usuária, afim de colaborar com o desenvolvimento da solução, deverá descrever seu cotidiano profissional, como sua rotina e dificuldades.
+
+Métodos de pesquisa:
+	A pesquisa de uma abordagem técnica em um campo como a organização é digna de atenção, e é isso que será tratado nessa seção.
+	Um dos autores dessa proposta, João Victor Aliscantes Borges, possui em seu círculo de amizades uma engenheira civil, cuja vida corriqueira lhe chamou a atenção. A proposta foi desenvolvida baseando-se em uma conversa informal entre os dois. A conclusão da conversa ocasionou na ideia de usar a informática afim de auxiliar a profissional em seu trabalho.
+
+Conclusão:
+	Os objetivos apresentados nessa proposta possuem total possibilidade de serem alcançados, resultando em um sistema oportuno para a conclusão do curso de Informática.
+	
+Referências: 
+	

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<object id='WebPageData'>
+<preview val="0"/>
+<has_banner val="0"/>
+<page_l val="48"/>
+<object class='WebCompColorizedZoneData'>
+<z_index val="17"/>
+<left val="18"/>
+<top val="516"/>
+<width val="186"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="0"/>
+<left val="0"/>
+<top val="0"/>
+<width val="800"/>
+<height val="1112"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="1"/>
+<comp_common_bg_border_color val="#000000"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#242424"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompAdvButtonData'>
+<z_index val="13"/>
+<left val="8"/>
+<top val="430"/>
+<width val="124"/>
+<height val="35"/>
+<link class='HyperLink'>
+<url val="menu_principal.html"/>
+<is_external val="0"/>
+</link>
+<crbst_text val="Menu Principal"/>
+<crbst_tooltip val=""/>
+<crbst_general val="type=rectangle,shadow=0,font-size=16,font-family=Arial,font-bold=0,font-italic=0,font-underlined=0,text-align=center,font-color=#000000,text-margin=0,"/>
+<crbst_normal val="inner-shadow=0,light-effect=0,gloss-effect=0,bg_col=#00000000,gloss-color=#00000000,font-color=#ffffff,font-underline=0,font-shadow=0,"/>
+<crbst_over val="inner-shadow=0,light-effect=0,gloss-effect=0,bg_col=#00000000,gloss-color=#00000000,font-color=#ffffff,font-underline=1,font-shadow=0,"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="7"/>
+<left val="20"/>
+<top val="582"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="19"/>
+<left val="18"/>
+<top val="578"/>
+<width val="186"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="18"/>
+<left val="18"/>
+<top val="558"/>
+<width val="186"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="16"/>
+<left val="6"/>
+<top val="491"/>
+<width val="197"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="4"/>
+<left val="0"/>
+<top val="349"/>
+<width val="480"/>
+<height val="49"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;font face='Georgia' size='36' color='#cccccc' face='Georgia' &#62;Escolha um t&#38;#243;pico da ajuda:&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="23"/>
+<left val="41"/>
+<top val="578"/>
+<width val="99"/>
+<height val="30"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;ordenar.html&#34; &#62;&#60;font face='Arial' size='16' &#62;Ordenar&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="22"/>
+<left val="41"/>
+<top val="537"/>
+<width val="99"/>
+<height val="30"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;visualizar.html&#34; &#62;&#60;font face='Arial' size='16' &#62;Visualizar&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="20"/>
+<left val="18"/>
+<top val="538"/>
+<width val="186"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="11"/>
+<left val="1"/>
+<top val="1084"/>
+<width val="800"/>
+<height val="28"/>
+<crbst_text val="&#60;p align='center'&#62;&#60;font face='MS Shell Dlg 2' size='16' color='#999999' face='MS Shell Dlg 2' &#62;Copyright &#38;#169; 2008 MM PHONE BOOK.All rights reserved.&#60;/font&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#0000ff;text-decoration:underline;}a:hover{color:#0000ff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="6"/>
+<left val="20"/>
+<top val="562"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="25"/>
+<left val="41"/>
+<top val="557"/>
+<width val="99"/>
+<height val="30"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;procurar.html&#34; &#62;&#60;font face='Arial' size='16' &#62;Procurar&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="5"/>
+<left val="6"/>
+<top val="440"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompTextData'>
+<z_index val="21"/>
+<left val="41"/>
+<top val="496"/>
+<width val="60"/>
+<height val="30"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;inserir.html&#34; &#62;&#60;font face='Arial' size='16' &#62;Inserir&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="26"/>
+<left val="41"/>
+<top val="516"/>
+<width val="60"/>
+<height val="30"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;excluir.html&#34; &#62;&#60;font face='Arial' size='16' &#62;Excluir&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompTextData'>
+<z_index val="24"/>
+<left val="10"/>
+<top val="300"/>
+<width val="100"/>
+<height val="39"/>
+<crbst_text val="&#60;p align='left'&#62;&#60;a href=&#34;inicio.html&#34; &#62;&#60;font face='Verdana' size='19' &#62;In&#38;#237;cio&#60;/u&#62;&#60;/font&#62;&#60;/a&#62;&#60;/p&#62;"/>
+<crbst_text_options val="margin=0,orientation=0,hide_scrollbar_auto=1,"/>
+<crbst_css val="a{color:#ffffff;text-decoration:underline;}a:hover{color:#ffffff;text-decoration:underline;}"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="9"/>
+<left val="20"/>
+<top val="520"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="10"/>
+<left val="20"/>
+<top val="500"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompColorizedZoneData'>
+<z_index val="15"/>
+<left val="6"/>
+<top val="462"/>
+<width val="197"/>
+<height val="1"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val="#666666"/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+</object>
+<object class='WebCompImageData'>
+<z_index val="8"/>
+<left val="20"/>
+<top val="541"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="2"/>
+<left val="83"/>
+<top val="293"/>
+<width val="718"/>
+<height val="41"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5f%5fgen%5fimg4%5f00.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompAdvButtonData'>
+<z_index val="14"/>
+<left val="15"/>
+<top val="460"/>
+<width val="124"/>
+<height val="35"/>
+<crbst_text val=" Menu Op&#231;&#245;es"/>
+<crbst_tooltip val=""/>
+<crbst_general val="type=rectangle,shadow=0,font-size=16,font-family=Arial,font-bold=0,font-italic=0,font-underlined=0,text-align=left,font-color=#000000,text-margin=0,"/>
+<crbst_normal val="inner-shadow=0,light-effect=0,gloss-effect=0,bg_col=#00000000,gloss-color=#00000000,font-color=#ffffff,font-underline=0,font-shadow=0,"/>
+<crbst_over val="inner-shadow=0,light-effect=0,gloss-effect=0,bg_col=#00000000,gloss-color=#00000000,font-color=#ffffff,font-underline=1,font-shadow=0,"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="3"/>
+<left val="0"/>
+<top val="293"/>
+<width val="718"/>
+<height val="41"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5f%5fgen%5fimg4%5f00.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="12"/>
+<left val="6"/>
+<top val="469"/>
+<width val="10"/>
+<height val="11"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fsidebarlinks.png"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<object class='WebCompImageData'>
+<z_index val="1"/>
+<left val="166"/>
+<top val="28"/>
+<width val="455"/>
+<height val="251"/>
+<comp_common_bg_image val=""/>
+<comp_common_bg_opacity val="100"/>
+<comp_common_bg_corner_size val="0"/>
+<comp_common_bg_border_size val="0"/>
+<comp_common_bg_border_color val="#969696"/>
+<comp_common_bg_has_shadow val="0"/>
+<comp_common_border_blur val="0"/>
+<gradient class='IsGradient'>
+<pt1 class='IsPoint'>
+<x val="30"/>
+<y val="50"/>
+</pt1>
+<pt2 class='IsPoint'>
+<x val="70"/>
+<y val="50"/>
+</pt2>
+<col1 val=""/>
+<col2 val=""/>
+<has_gradient val="0"/>
+</gradient>
+<img_tooltip val=""/>
+<normal_img val="crbst%5fmmphonebook.jpg"/>
+<over_img val=""/>
+<opacity val="100"/>
+</object>
+<global_photo_album_tooltip_bt_zoom_in val="Aumentar&nbsp;Zoom"/>
+<global_photo_album_tooltip_bt_zoom_out val="Diminuir&nbsp;zoom"/>
+<global_photo_album_tooltip_bt_display_comment val="Mostrar&nbsp;os&nbsp;coment&#225;rios"/>
+<global_photo_album_tooltip_bt_increase_view val="Aumentar"/>
+<global_photo_album_tooltip_bt_decrease_view val="Diminuir"/>
+<global_photo_album_tooltip_bt_previous_page val="P&#225;gina&nbsp;anterior"/>
+<global_photo_album_tooltip_bt_next_page val="P&#225;gina&nbsp;seguinte"/>
+<global_photo_album_tooltip_bt_stop_diaporama val="Parar&nbsp;o&nbsp;diaporama"/>
+<global_photo_album_tooltip_bt_launch_diaporama val="Come&#231;ar&nbsp;o&nbsp;diaporama"/>
+<global_photo_album_tooltip_bt_back_to_album val="Sair&nbsp;do&nbsp;modo&nbsp;&#34;Pagina&nbsp;inteira&#34;"/>
+<global_message_error_server_connexion val="Erro:&nbsp;conex&#227;o&nbsp;servidor"/>
+<global_message_mail_sended val="Sucesso:&nbsp;Email&nbsp;enviado"/>
+<global_message_error_no_php_on_server val="Erro:&nbsp;Servidor&nbsp;sem&nbsp;php"/>
+<global_context_menu_open_image val="Abrir&nbsp;a&nbsp;imagem&nbsp;no&nbsp;seu&nbsp;navegador"/>
+<global_context_menu_open_url_in_window val="Abrir&nbsp;o&nbsp;link&nbsp;no&nbsp;seu&nbsp;navegador"/>
+<global_context_menu_insert_special_character val="Introduza&nbsp;o&nbsp;car&#225;ter&nbsp;especial"/>
+<global_message_click_here_to_open_link_in_window val="Clique&nbsp;aqui&nbsp;para&nbsp;abrir&nbsp;o&nbsp;link&nbsp;noutra&nbsp;janela"/>
+<global_message_you_can_add_special_chars_by_context_menu val="Pode&nbsp;inserir&nbsp;o&nbsp;car&#225;cter&nbsp;&#8220;@&#8221;&nbsp;abrindo&nbsp;o&nbsp;menu&nbsp;contextual&nbsp;(clique&nbsp;direito)"/>
+<crbst_common val="width=802,height=1112,is_centered=1,bg_image=,"/>
+<block_right_mouseclic_get_image val="0"/>
+</object>

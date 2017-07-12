@@ -1,0 +1,12 @@
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\bin\Debug\caixa1.exe.config
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\obj\Debug\caixa1.csprojResolveAssemblyReference.cache
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\obj\Debug\caixa1.Form1.resources
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\obj\Debug\caixa1.Properties.Resources.resources
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\obj\Debug\caixa1.csproj.GenerateResource.Cache
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\bin\Debug\caixa1.exe
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\bin\Debug\caixa1.pdb
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\obj\Debug\caixa1.exe
+c:\users\i14613i\documents\visual studio 2015\Projects\caixa1\caixa1\obj\Debug\caixa1.pdb
+D:\Técnico\DSO\caixa1\caixa1\bin\Debug\caixa1.exe.config
+D:\Técnico\DSO\caixa1\caixa1\obj\Debug\caixa1.exe
+D:\Técnico\DSO\caixa1\caixa1\obj\Debug\caixa1.pdb

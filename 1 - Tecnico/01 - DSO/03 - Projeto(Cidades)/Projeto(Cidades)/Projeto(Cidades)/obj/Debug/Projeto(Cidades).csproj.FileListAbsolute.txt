@@ -1,0 +1,10 @@
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\bin\Debug\Projeto(Cidades).exe.config
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\bin\Debug\Projeto(Cidades).exe
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\bin\Debug\Projeto(Cidades).pdb
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\bin\Debug\MySql.Data.dll
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\obj\Debug\Projeto(Cidades).csprojResolveAssemblyReference.cache
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\obj\Debug\Projeto_Cidades_.Form1.resources
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\obj\Debug\Projeto_Cidades_.Properties.Resources.resources
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\obj\Debug\Projeto(Cidades).csproj.GenerateResource.Cache
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\obj\Debug\Projeto(Cidades).exe
+E:\Técnico\DSO\Projeto(Cidades)\Projeto(Cidades)\Projeto(Cidades)\obj\Debug\Projeto(Cidades).pdb

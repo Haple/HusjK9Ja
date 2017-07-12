@@ -1,0 +1,13 @@
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\bin\Debug\Projeto(Login).exe.config
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\bin\Debug\Projeto(Login).exe
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\bin\Debug\Projeto(Login).pdb
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\bin\Debug\MySql.Data.dll
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto(Login).csprojResolveAssemblyReference.cache
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto_Login_.Form1.resources
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto_Login_.Properties.Resources.resources
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto(Login).csproj.GenerateResource.Cache
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto(Login).exe
+E:\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto(Login).pdb
+E:\Técnico\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\bin\Debug\Projeto(Login).exe.config
+E:\Técnico\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto(Login).exe
+E:\Técnico\DSO\Projeto(Login)\Projeto(Login)\Projeto(Login)\obj\Debug\Projeto(Login).pdb

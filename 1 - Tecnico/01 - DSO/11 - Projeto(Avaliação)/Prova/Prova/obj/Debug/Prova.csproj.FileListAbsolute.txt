@@ -1,0 +1,13 @@
+E:\Técnico\DSO\Prova\Prova\Prova\bin\Debug\Prova.exe.config
+E:\Técnico\DSO\Prova\Prova\Prova\bin\Debug\Prova.exe
+E:\Técnico\DSO\Prova\Prova\Prova\bin\Debug\Prova.pdb
+E:\Técnico\DSO\Prova\Prova\Prova\bin\Debug\MySql.Data.dll
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.Cad_temporada.resources
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.Con_episodio.resources
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.Con_Seriado.resources
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.Menu.resources
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.Cad_seriado.resources
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.Cache
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.exe
+E:\Técnico\DSO\Prova\Prova\Prova\obj\Debug\Prova.pdb

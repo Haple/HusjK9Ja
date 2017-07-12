@@ -1,0 +1,10 @@
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\bin\Debug\Projeto(Consultar Tênis).exe.config
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\bin\Debug\Projeto(Consultar Tênis).exe
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\bin\Debug\Projeto(Consultar Tênis).pdb
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\bin\Debug\MySql.Data.dll
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\obj\Debug\Projeto(Consultar Tênis).csprojResolveAssemblyReference.cache
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\obj\Debug\Projeto_Consultar_Tênis_.Form1.resources
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\obj\Debug\Projeto_Consultar_Tênis_.Properties.Resources.resources
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\obj\Debug\Projeto(Consultar Tênis).csproj.GenerateResource.Cache
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\obj\Debug\Projeto(Consultar Tênis).exe
+E:\Técnico\DSO\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\Projeto(Consultar Tênis)\obj\Debug\Projeto(Consultar Tênis).pdb

@@ -1,0 +1,12 @@
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\bin\Debug\Projeto(Banco).exe.config
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\bin\Debug\Projeto(Banco).exe
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\bin\Debug\Projeto(Banco).pdb
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto(Banco).csprojResolveAssemblyReference.cache
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto_Banco_.Form1.resources
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto_Banco_.Properties.Resources.resources
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto(Banco).csproj.GenerateResource.Cache
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto(Banco).exe
+E:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto(Banco).pdb
+D:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\bin\Debug\Projeto(Banco).exe.config
+D:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto(Banco).exe
+D:\Técnico\DSO\Projeto(Banco - OO)\Projeto(Banco)\Projeto(Banco)\obj\Debug\Projeto(Banco).pdb

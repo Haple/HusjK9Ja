@@ -1,0 +1,35 @@
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).exe.config
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Interop.WMPLib.dll
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csproj.ResolveComReference.cache
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).exe
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).pdb
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csprojResolveAssemblyReference.cache
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.Form1.resources
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.Properties.Resources.resources
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csproj.GenerateResource.Cache
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).exe
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).pdb
+E:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.alternativo.resources
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).exe.config
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Interop.WMPLib.dll
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csproj.ResolveComReference.cache
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).exe
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).pdb
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).exe
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).pdb
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csprojResolveAssemblyReference.cache
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.alternativo.resources
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.Form1.resources
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.Properties.Resources.resources
+F:\1 - Técnico\01 - DSO\15 - Projeto(Piano)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csproj.GenerateResource.Cache
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\bin\Debug\Projeto(Piano).exe.config
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Interop.WMPLib.dll
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csproj.ResolveComReference.cache
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).exe
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).pdb
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csprojResolveAssemblyReference.cache
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.alternativo.resources
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.Form1.resources
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto_Piano_.Properties.Resources.resources
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\Projeto(Piano).csproj.GenerateResource.Cache
+F:\1 - Técnico\01 - DSO\19 - Projeto(Music Game)\Projeto(Piano)\Projeto(Piano)\obj\Debug\AxInterop.WMPLib.dll
